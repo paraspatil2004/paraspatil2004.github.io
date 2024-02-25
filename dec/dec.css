@@ -1,0 +1,103 @@
+html{
+    background-color: #FBFADA;
+    color: #12372A;
+    font-family: 'Single Day', cursive;
+    font-size: large;
+}
+h1{
+ font-size: 50px;
+ text-align: center;
+ color: #FBFADA;
+}
+#head{
+ background-color: #436850;
+ border-radius: 10px;
+ height: 70px;
+}
+.mntimg img{
+
+ height: 400px;
+ border-radius: 20px;
+ position: relative;
+ top: 20px;
+ left: 20px;
+}
+
+#mnt{
+  background-color: #ADBC9F;
+  height: 440px;
+  padding: 30px;
+  border-radius: 20px;
+  margin-left: 200px;
+  margin-top: 170px;
+  width: 1050px;
+}
+.mntbox{
+ background-color: #FBFADA;
+ height: 400px;
+ width: 550px ;
+ position: relative;
+ top: -405px;
+ left: 460px;
+ border-radius: 20px;
+ padding: 20px;
+}
+h2{
+ margin-top: -250px;
+ font-size: 40px;
+}
+#imgbox{
+ margin-top: 130px;
+ background-color: #ADBC9F;
+ width: 1000px;
+ height: 1000px;
+ border-radius: 20px;
+}
+#aliimg img{
+     height: 300px;
+     width: 300px;
+     border-radius: 20px;
+     margin-left: 25px;
+}
+.one{
+ position: relative;
+ top: 25px;
+}
+.two{
+ position: relative;
+ top:-282px ;
+ left: 325px;
+}
+.three{
+ position: relative;
+ top:-588px ;
+ left: 650px;
+}
+.four{
+ position: relative;
+ top: -574px;
+}
+.five{
+ position: relative;
+ top: -881px;
+ left: 325px;
+}
+.six{
+ position: relative;
+ top: -1187px;
+ left: 650px;
+}
+.seven{
+ position: relative;
+ top: -1166px;
+}
+.eight{
+ position: relative;
+ top:-1473px;
+ left: 325px;
+}
+.nine{
+ position: relative;
+ top: -1779px;
+ left: 650px;
+}

@@ -1,0 +1,145 @@
+html{
+    font-family: 'Single Day', cursive;
+    background-color:#DCF2F1 ;
+    color:#0F1035 ;
+}
+.head{
+    background-color: #365486;
+    color: #DCF2F1;
+    text-align: center;
+    height: 60px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 50px;
+}
+.infobox{
+    background-color: #7FC7D9;
+    height: 200px;
+    width: 800px;
+    margin-top: -19px;
+    margin-left:200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.pad img{
+    height: 170px;
+    width: 800px;
+    margin-top: 90px;
+    margin-left: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.bor{
+    background-color: #DCF2F1;
+    height: 220px;
+    width: 220px;
+    border-radius: 110px;
+    position: relative;
+    top:-260px;
+    left: 290px;
+}
+.bor img{
+    height: 200px;
+    border-radius: 100px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.infoph p{
+    font-size: 25px;
+    background-color: #DCF2F1;
+    height: 120px;
+    width: 350px;
+  position: relative;
+  top: 21px;
+  left: 390px;
+  padding: 20px;
+  border-radius: 20px;
+}
+#sm div{
+    display: inline-block;
+}
+#same{
+    font-size: 23px;
+    height: 30px;
+    width: 140px;
+    color: #DCF2F1;
+    background-color: #365486;
+    text-align: center;
+    border-radius: 20px;
+}
+.insta{
+    position: relative;
+    top: -300px;
+    left: 620px;
+}
+.whtapp{
+    position: relative;
+    top: -353px;
+    left: 810px;
+}
+#sch{
+    background-color: #7FC7D9;
+    height: 650px;
+    width: 1000px;
+    position: relative;
+    left: 250px;
+    top: -200px;
+    border-radius: 20px;
+}
+#sch img{
+    height: 300px;
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+h2{
+    color: #365486;
+    position: relative;
+    left: 200px;
+    top: -200px;
+    font-size: 50px;
+}
+.schinfo p{
+    background-color: #DCF2F1;
+    width: 700px;
+    padding: 30px;
+    border-radius: 20px;
+    position: relative;
+    left: 120px;
+    top: 50px;
+}
+.trav{
+    position: relative;
+    top: -150px;
+    left: px;
+}
+#cnt{
+    background-color: #7FC7D9;
+    height: 300px;
+    width: 700px;
+    position: relative;
+    top: -100px;
+    left: 300px;
+    border-radius: 20px;
+}
+#map{
+    position: relative;
+    top: -165px;
+    left: 450px;
+}
+#map iframe{
+    border-radius: 20px;
+}
+.cntph{
+    background-color: #DCF2F1;
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+   position: relative;
+   top: 50px;
+   left: 50px;
+   border-radius: 20px;
+}
