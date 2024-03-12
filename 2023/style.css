@@ -1,6 +1,6 @@
 html{
     font-family: 'Single Day', cursive;
-    font-size: large;
+   
     background-color:#E8D8C4 ;
     color: #6D2932;
 }
@@ -430,7 +430,7 @@ h3{
     width: 250px;
     border-radius: 20px;
     position: relative;
-    top: -635px;
+    top: -560px;
     left: 470px;
 }
 .pablock{
@@ -438,7 +438,7 @@ h3{
          width: 210px;
          position: relative;
          left: 470px;
-         top: -615px;
+         top: -541px;
          padding: 20px;
          border-radius: 20px;
 }
